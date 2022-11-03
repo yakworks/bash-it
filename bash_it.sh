@@ -94,6 +94,8 @@ if _command_exists gloobus-preview; then
 	PREVIEW="gloobus-preview"
 elif [[ -d /Applications/Preview.app ]]; then
 	PREVIEW="/Applications/Preview.app"
+elif [[ -d /System/Applications/Preview.app ]]; then
+	PREVIEW="/System/Applications/Preview.app"
 else
 	PREVIEW="less"
 fi
