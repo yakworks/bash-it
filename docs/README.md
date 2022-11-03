@@ -1,3 +1,6 @@
+> 📝 👀 __mods__ is default branch in this fork 
+> with tweaks, fixes and merged PRs we want
+
 ![logo](https://github.com/Bash-it/media/raw/master/media/Bash-it.png)
 
 ![Build Status](../../../workflows/CI/badge.svg?event=push)
