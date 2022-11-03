@@ -11,6 +11,9 @@ alias ghb='gh browse'
 # --- kubectl ---
 alias k='kubectl'
 
+# --- "iterm ." will open new iterm in current dir from any terminal, can pass any dir to open ---
+alias iterm='open -a iTerm'
+
 # --- starts webserver in current dir ---
 alias webserver="python3 -m http.server 8090"
 
